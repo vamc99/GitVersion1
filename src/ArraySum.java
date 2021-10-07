@@ -1,13 +1,7 @@
-mahaboobhussain.s@vishnu.edu.in
 import java.util.*;
-class ArraySum
-{
-	
-	public static void main(String[] args) 
-	{
-	
+class ArraySum{
+	public static void main(String[] args) {
 	int size;
-		
 	int []arr;
 		
 	Scanner sc = new Scanner(System.in);
